@@ -7,7 +7,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
 
-<div style="display:flex; justify-conten:center">
+<div align="center">
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaviMontie&layout=donut-vertical&hide_title=true&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=DaviMontie&layout=donut-vertical&hide_title=true&langs_count=4&theme=radical)
 </div>
 
