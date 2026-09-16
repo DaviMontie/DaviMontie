@@ -16,7 +16,7 @@
 # Estatisticas
 <div align="center">
   <a href="https://github.com/DaviMontie">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DaviMontie&layout=donut-vertical&hide_title=true&langs_count=4&theme=radical" alt="GitHub Stats">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DaviMontie&layout=donut-vertical&langs_count=4&hide_values=true&theme=transparent" alt="GitHub Stats">
   </a>
 </div>
 
