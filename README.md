@@ -26,7 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" />
 </div>
 
-# Estatisticas
+<div align = "center">
+  <h1>Statistical</h1>
+</div>
+
 <div align="center">
   <a href="https://github.com/DaviMontie">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DaviMontie&layout=donut-vertical&langs_count=4&hide_values=true&theme=transparent" alt="GitHub Stats">
