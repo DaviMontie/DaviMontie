@@ -26,8 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" />
 </div>
 
+
 <div align = "center">
-  <h1>Statistical</h1>
+  <h1>Statistics</h1>
 </div>
 
 <div align="center">
