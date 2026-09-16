@@ -2,6 +2,7 @@
   <h1>Languages</h1>
   <p>Aff</p>
 </div>
+<div>
 <div align ="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
@@ -10,6 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
+</div>
+<img scr="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXNjZXB0bTVuNXh0cHlnOXhybWVxYmczeGk1ZHk4c2l6cmxjZmYxZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R0AIL3UgVeoN8Auuf6/giphy.gif" width = "80">
 </div>
 
 
