@@ -6,7 +6,7 @@
   <table border="0" cellspacing="0" cellpadding="0" align="center">
     <tr>
       <td align="center" valign="middle" style="padding: 25px;">
-        <h3 align="center">⚡ Meus Principais</h3>
+        <h3 align="center">⚡ Principais</h3>
         <br/>
         <p align="center">
           <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" /></a> &nbsp;&nbsp;
@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Tools & Platforms</h3>
+  <h3>Tools</h3>
   <br/>
   <p align="center">
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" /></a> &nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Statistics</h3>
+  <h3>Stats</h3>
   <br/>
   <a href="https://github.com/DaviMontie">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DaviMontie&layout=donut-vertical&langs_count=4&hide_values=true&theme=transparent" alt="GitHub Stats" width="380" />
